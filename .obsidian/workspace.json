@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "1689771825ed4c1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6adefef229dc513",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f870d063baaeb55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N5,N4 文法紀錄.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "N5,N4 文法紀錄"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "504684b278ea8ae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "50a7195d6c41bd94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d547b277dc5a4df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "de72f8f940a2daad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7bc8fe9192260aaa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cd089e64541f6ef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b205c3d171dd6676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14f1c3dd4447b16a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "N5,N4 文法紀錄.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for N5,N4 文法紀錄"
+            }
+          },
+          {
+            "id": "aad7589ddc28c3ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "N5,N4 文法紀錄.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from N5,N4 文法紀錄"
+            }
+          },
+          {
+            "id": "d77ea5c0f5a0333e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2c2e051d4af2e1ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "N5,N4 文法紀錄.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of N5,N4 文法紀錄"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4f870d063baaeb55",
+  "lastOpenFiles": [
+    "Images/jibunjisin.png",
+    "Images/o-community220414094657_8401.png",
+    "Images/71798672_2738571269508515_7022050316669419520_n.jpg",
+    "Images/468454057_10162273514161392_9051340472741908077_n.png",
+    "Images/c-community240308100642_5540.jpg",
+    "Images/dou_e9a081e99da2_12.png",
+    "Images/o-community211110091207_7576.jpg",
+    "Images/o-community230203160956_9872.jpg",
+    "Images/o-community230218170240_9597.jpg",
+    "Images/o-community231211151251_4706.png",
+    "N5,N4 文法紀錄.md",
+    "Untitled.base",
+    "Images",
+    "Welcome.md"
+  ]
+}
