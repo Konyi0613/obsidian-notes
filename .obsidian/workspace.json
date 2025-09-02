@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d6adefef229dc513",
+        "id": "9e438847354510b3",
         "type": "tabs",
         "children": [
           {
-            "id": "4f870d063baaeb55",
+            "id": "7a85cd8a7b792135",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,14 +137,14 @@
             }
           },
           {
-            "id": "2c2e051d4af2e1ad",
+            "id": "c53a93f890d88a3d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
                 "file": "N5,N4 文法紀錄.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +169,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4f870d063baaeb55",
+  "active": "c53a93f890d88a3d",
   "lastOpenFiles": [
+    "Untitled.base",
+    "N5,N4 文法紀錄.md",
     "Images/jibunjisin.png",
     "Images/o-community220414094657_8401.png",
     "Images/71798672_2738571269508515_7022050316669419520_n.jpg",
@@ -181,8 +183,6 @@
     "Images/o-community230203160956_9872.jpg",
     "Images/o-community230218170240_9597.jpg",
     "Images/o-community231211151251_4706.png",
-    "N5,N4 文法紀錄.md",
-    "Untitled.base",
     "Images",
     "Welcome.md"
   ]
