@@ -144,7 +144,7 @@
               "state": {
                 "file": "N5,N4 文法紀錄.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -169,8 +169,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "c53a93f890d88a3d",
+  "active": "7a85cd8a7b792135",
   "lastOpenFiles": [
+    "Images/465862332_9058075690891343_1947192752299161824_n.png",
+    "Images/o-community211111105738_1874.jpg",
     "Untitled.base",
     "N5,N4 文法紀錄.md",
     "Images/jibunjisin.png",
@@ -182,7 +184,6 @@
     "Images/o-community211110091207_7576.jpg",
     "Images/o-community230203160956_9872.jpg",
     "Images/o-community230218170240_9597.jpg",
-    "Images/o-community231211151251_4706.png",
     "Images",
     "Welcome.md"
   ]
